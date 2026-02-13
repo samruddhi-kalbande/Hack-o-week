@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# Smart Institute Assistant 🎓
+
+# SYMBIOSIS INSTITUTE OF TECHNOLOGY CHATBOT 🎓
 
 An AI-powered hybrid chatbot for college/institute queries using NLP and Machine Learning.
 
@@ -130,5 +130,4 @@ Structure of `data.json`:
 - **Week 5**: Intent Classification with Machine Learning.
 
 ## Author
-Built by [Your Name] for the Hack-o-Week challenge.
->>>>>>> d5e8a4b050bb30d9982bf93ea54cd3298a02baac
+Built by Samruddhi Kalbande,Ishika Dubey & Samruddhi Kalbande for the Hack-o-Week challenge.

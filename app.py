@@ -436,5 +436,7 @@ with st.sidebar:
     - **Fallback** suggestions
     """)
     
+    
     st.markdown("---")
     st.caption("💡 Tip: Use quick question buttons for instant answers!")
+

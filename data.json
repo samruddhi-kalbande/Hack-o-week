@@ -1,0 +1,278 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hi",
+                "Hey",
+                "How are you",
+                "Is anyone there?",
+                "Hello",
+                "Good day"
+            ],
+            "responses": [
+                "Hello! I'm your Institute Assistant. How can I help you today?"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "Bye",
+                "See you later",
+                "Goodbye"
+            ],
+            "responses": [
+                "See you later! Have a great day."
+            ]
+        },
+        {
+            "tag": "thanks",
+            "patterns": [
+                "Thanks",
+                "Thank you",
+                "That's helpful"
+            ],
+            "responses": [
+                "You're welcome!",
+                "Happy to help!"
+            ]
+        },
+        {
+            "tag": "timings",
+            "patterns": [
+                "time",
+                "timing",
+                "open",
+                "hours",
+                "when do you open"
+            ],
+            "responses": [
+                "The institute is open from 9:00 AM to 5:00 PM, Monday to Saturday."
+            ]
+        },
+        {
+            "tag": "fees",
+            "patterns": [
+                "fee",
+                "cost",
+                "tuition",
+                "price",
+                "how much"
+            ],
+            "responses": [
+                "The annual tuition fee involves a base charge of $5000. For detailed breakdown, please visit the accounts section."
+            ]
+        },
+        {
+            "tag": "contact",
+            "patterns": [
+                "contact",
+                "phone",
+                "email",
+                "reach",
+                "call"
+            ],
+            "responses": [
+                "You can contact us at contact@institute.edu or call +1-234-567-890."
+            ]
+        },
+        {
+            "tag": "courses",
+            "patterns": [
+                "course",
+                "program",
+                "branch",
+                "degree",
+                "majors"
+            ],
+            "responses": [
+                "We offer B.Tech, M.Tech, and PhD programs in CS, IT, ECE, and Mechanical Engineering."
+            ]
+        },
+        {
+            "tag": "admissions",
+            "patterns": [
+                "admission",
+                "apply",
+                "join",
+                "enroll",
+                "registration"
+            ],
+            "responses": [
+                "Admissions open in April every year. You can apply via our online portal."
+            ]
+        },
+        {
+            "tag": "library",
+            "patterns": [
+                "library",
+                "book",
+                "reading room"
+            ],
+            "responses": [
+                "The central library is open 24/7 for students during exam weeks, regular hours are 8 AM - 8 PM."
+            ]
+        },
+        {
+            "tag": "hostel",
+            "patterns": [
+                "hostel",
+                "accommodation",
+                "dorm",
+                "room",
+                "stay"
+            ],
+            "responses": [
+                "We have separate hostels for boys and girls with AC and non-AC rooms available."
+            ]
+        },
+        {
+            "tag": "canteen",
+            "patterns": [
+                "canteen",
+                "food",
+                "cafeteria",
+                "lunch",
+                "snack",
+                "mess"
+            ],
+            "responses": [
+                "The canteen serves healthy meals and snacks from 7 AM to 10 PM."
+            ]
+        },
+        {
+            "tag": "exams",
+            "patterns": [
+                "exam",
+                "test",
+                "schedule",
+                "midsem",
+                "endsem",
+                "date sheet"
+            ],
+            "responses": [
+                "Mid-semester exams are usually in September, and End-semester exams in December."
+            ]
+        },
+        {
+            "tag": "transport",
+            "patterns": [
+                "transport",
+                "bus",
+                "shuttle",
+                "commute"
+            ],
+            "responses": [
+                "Institute bus service covers all major city routes. Passes can be collected from the admin office."
+            ]
+        },
+        {
+            "tag": "scholarships",
+            "patterns": [
+                "scholarship",
+                "financial aid",
+                "grant",
+                "support"
+            ],
+            "responses": [
+                "Merit-based scholarships are available for top 10% students. Need-based aid is also provided."
+            ]
+        },
+        {
+            "tag": "wifi",
+            "patterns": [
+                "wifi",
+                "internet",
+                "connection",
+                "network"
+            ],
+            "responses": [
+                "Free high-speed WiFi is available across the campus for all students and staff."
+            ]
+        },
+        {
+            "tag": "sports",
+            "patterns": [
+                "sport",
+                "gym",
+                "cricket",
+                "basketball",
+                "games"
+            ],
+            "responses": [
+                "We have a cricket ground, basketball court, and a fully equipped gym open for students."
+            ]
+        },
+        {
+            "tag": "placements",
+            "patterns": [
+                "placement",
+                "job",
+                "recruit",
+                "career",
+                "company"
+            ],
+            "responses": [
+                "Our placement cell has a 95% record. Top recruiters include Google, Microsoft, and Amazon."
+            ]
+        },
+        {
+            "tag": "location",
+            "patterns": [
+                "where",
+                "address",
+                "location",
+                "place",
+                "map"
+            ],
+            "responses": [
+                "We are located at 123 Education Lane, Tech City, State."
+            ]
+        },
+        {
+            "tag": "holidays",
+            "patterns": [
+                "holiday",
+                "vacation",
+                "off"
+            ],
+            "responses": [
+                "The academic calendar lists all official holidays. We generally follow the state government holiday list."
+            ]
+        },
+        {
+            "tag": "faculty",
+            "patterns": [
+                "faculty",
+                "teacher",
+                "professor",
+                "staff"
+            ],
+            "responses": [
+                "Our faculty are highly qualified, with 80% holding PhDs from top universities."
+            ]
+        },
+        {
+            "tag": "result",
+            "patterns": [
+                "result",
+                "grade",
+                "score",
+                "mark"
+            ],
+            "responses": [
+                "Results are published on the student portal. You will need your student ID to access them."
+            ]
+        },
+        {
+            "tag": "funny",
+            "patterns": [
+                "joke",
+                "funny"
+            ],
+            "responses": [
+                "Why did the developer go broke? Because he used up all his cache!"
+            ]
+        }
+    ]
+}

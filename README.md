@@ -130,4 +130,4 @@ Structure of `data.json`:
 - **Week 5**: Intent Classification with Machine Learning.
 
 ## Author
-Built by Samruddhi Kalbande,Ishika Dubey & Samruddhi Kalbande for the Hack-o-Week challenge.
+Built by Samruddhi Kalbande,Ishika Dubey & Atharv Lulekar for the Hack-o-Week challenge.

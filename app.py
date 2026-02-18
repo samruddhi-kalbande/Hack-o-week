@@ -439,14 +439,4 @@ with st.sidebar:
     
     st.markdown("---")
     st.caption("💡 Tip: Use quick question buttons for instant answers!")
-from flask import Flask
-
-app = Flask(__name__)
-
-@app.route("/")
-def home():
-    return "Hello World"
-
-if __name__ == "__main__":
-    app.run(debug=True, use_reloader=False, port=8000)
 
